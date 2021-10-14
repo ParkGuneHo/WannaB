@@ -14,5 +14,7 @@ GAN Model로 학습된 BeautyGan을 통해 가상의 메이크업 이미지를 �
 
 📱 Android
 Glide : 서버로 받은 Image를 표현하기 위해 사용.
+
 Volley : 비동기 형태로 서버와 통신하기 위해 사용.
+
 Room : Local Storage를 통해, 캐쉬, 즐겨찾기 기능등 활용.
